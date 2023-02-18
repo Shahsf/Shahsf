@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shahaf
-- 👀 I’m interested in python automation,app Developing
-- 📫 How to reach me (at the moment you just can't)
+- 📫 How to reach me shahsf123@gmail.com
 
 <!---
 Shahsf/shahsf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
